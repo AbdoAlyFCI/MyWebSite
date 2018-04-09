@@ -1,0 +1,186 @@
+﻿header
+{
+    height:150px;
+    width:1250px;
+}
+aside
+{
+    height:1100px;
+    width:300px;
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-left:30px;
+    background:#ffffff;
+    border-radius: 25px;
+    float:left;
+}
+
+#newnews
+{
+    position:absolute;
+    height:1100px;
+    width:750px;
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-left:370px;
+    border-radius: 25px;
+    background:#ffffff;
+
+}
+
+.newsstyle
+{
+     position:relative;
+     height:250px;
+     width:250px;
+     margin-left:80px;
+     margin-top:70px;
+
+     border-radius: 25px;
+     
+     border:2px solid black;
+     float:left;
+}
+footer
+{
+
+    margin-left:0px;
+    height:300px;
+    width:1250px;
+    
+    background-color:#585858;
+    clear:both;
+    margin-top: 0px;
+}
+
+#maindiv
+{
+    width:1250px;
+    min-height:400px;
+    margin:0 auto;
+    background-color:#ffffff;    
+}
+#PageContent
+{
+    width:1250px;
+    min-height:1500px;
+    background-color:#aaa3a3;
+}
+
+#manubar
+{
+    width:1250px;
+    height:50px;
+    margin-top:20px;
+    background-color:#808080;
+}
+
+#slidebar
+{
+   
+    width:1150px;
+    height:320px;
+    margin-top:50px;
+    margin-left:50px;
+    margin-right:50px;
+    background-color:#808080;
+}
+
+#subcontent
+{
+     width:1150px;
+    height:1200px;
+    margin-top:70px;
+    margin-left:50px;
+    margin-right:50px;
+    background-color:#585858;
+}
+.newsinfoimg
+{
+    position:absolute;
+    width:250px;
+    height:175px;
+    border-radius: 22px;
+}
+
+.imgageslider
+{
+    position:absolute;
+    display:none;
+    width:1150px;
+    height:320px;
+}
+.newsinfowrite
+{
+    position:absolute;
+    margin-top:160px;
+}
+
+.buttomM
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    background-color:transparent;
+    background-repeat:no-repeat;
+    cursor:pointer;
+    overflow:hidden;
+    outline:none;
+    font-size:20px;
+    margin-left:10px;
+    margin-top:20px;
+    width: 150px;
+    font-family:OCR A;
+}
+
+#gameframe
+{
+
+    width:220px;
+    height:380px;
+    padding:30px 30px;
+    border: 5px solid black;
+    margin-right:180px;
+    top: 1012px;
+    left: 248px;
+}
+
+#Discrption
+{
+    width:300px;
+    font-size:22px;
+    margin-top:30px;
+    float:left;
+}
+
+#signIn
+{
+    position:absolute;
+    margin-left:1000px;
+    margin-top:15px;
+    width: 150px;
+    font-family:OCR A;
+}
+#signInImg
+{
+    width:30px;
+    height:30px;
+    float:left;
+}
+#about
+{
+    position:absolute;
+    height:250px;
+    width:500px;
+    border:2px solid black;
+    border-radius:25px;
+    padding:25px;
+    margin:100px;
+}
+
+#ip
+{
+    clear:both;
+    position:absolute;
+    margin-top:200px;
+}
